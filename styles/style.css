@@ -124,3 +124,60 @@
     color: orangered;
     font-weight: 700;
 }
+/* featured products */
+.featured-pro{
+    margin: 0 300px;
+    margin-bottom: 100px;
+}
+.featured-container{
+    display: flex;
+    gap: 96px;
+    align-items: center;
+}
+.featured-title{
+    margin-bottom: 16px;
+    font-size: 38px;
+    font-weight: 700;
+}
+.featured-para{
+    margin-bottom: 16px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #6C6C6C;
+
+}
+.btn-secondary{
+    background-color: #E02C6D;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 30px;
+    color: #FFFFFF;
+
+}
+/* footer */
+.footer{
+    background-color: #000000;
+    padding: 50px 0;
+    text-align: center;
+}
+.social-container{
+    display: flex;
+    gap: 31px;
+    justify-content: center;
+    padding-top: 17px;
+}
+.footer-title{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+.footer-para{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+}
+.fa-instagram, .fa-futbol, .fa-twitter, .fa-youtube{
+    color: #FFFFFF;
+}
